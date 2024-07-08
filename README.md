@@ -59,6 +59,7 @@ I love programming and in spare time ear some musics and play indie games. 🎻�
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/></code>
 </details>
 
+<br><br>
 
 ## ⚡ Stats ⚡
 </div>
