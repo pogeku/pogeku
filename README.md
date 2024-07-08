@@ -71,7 +71,9 @@ I love programming and in spare time ear some musics and play indie games. 🎻�
 ### 📕 Lastest Blog Posts
 <div>
 
--
--
--
--
+<div align="left">
+
+- [More soon]()
+- [More soon]()
+- [More soon]()
+- [More soon]()
