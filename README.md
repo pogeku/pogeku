@@ -23,6 +23,7 @@ I love programming and in spare time ear some musics and play indie games. 🎻�
 
 <div align="center">
 
+
 ## 🌱 Currently Learning:
 </div>
 
@@ -30,26 +31,24 @@ I love programming and in spare time ear some musics and play indie games. 🎻�
 - [Exploring new frameworks and libraries to stay up-to-date](https://roadmap.sh/r/frameworks-to-learn)
 
 <div align="center">
+<br><br>
+
+---
 
 ### 📫 How to Reach Me:
-#### I respond within 2 to 5 business days.
----
-</div>
-<br>
-
 [![Resume](https://img.shields.io/badge/My%20Resumee-black?style=flat&color=%23442CEB&cacheSeconds=2)]()
 [![Portifolio](https://img.shields.io/badge/Portifolio-black?style=flat&color=%238D59E3&cacheSeconds=2)]()
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:samuelsantana778@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samuelpereira-dntszz/)
 [![Roadmap](https://img.shields.io/badge/Roadmap-000000?style=flat&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/u/mrspeed)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22629899)
-
-
-
-
-
-<br>
+#### I respond within 2 to 5 business days.
+</div>
 <div align="center">
+
+---
+
+<br><br>
 
 ##  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools  🛠️</b></summary>
 [![My Skills](https://skillicons.dev/icons?i=java,vscode,eclipse,git,docker,postman,html,css,figma,angular,javascript,spring,maven,arch,postgresql,selenium,kubernetes,gradle,mysql,bash&perline=10)](https://skillicons.dev)
@@ -61,7 +60,7 @@ I love programming and in spare time ear some musics and play indie games. 🎻�
 </details>
 
 
-## Stats 
+## ⚡ Stats ⚡
 </div>
 
 <img alt="Samuel GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pogeku&show_icons=true&theme=transparent"/>
