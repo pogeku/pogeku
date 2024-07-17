@@ -52,7 +52,7 @@ I love programming and in spare time ear some musics and play indie games. 🎻�
 <br><br>
 
 ##  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools  🛠️</b></summary>
-[![My Skills](https://skillicons.dev/icons?i=java,vscode,eclipse,git,docker,postman,html,css,figma,angular,javascript,spring,maven,arch,postgresql,selenium,kubernetes,gradle,mysql,bash&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,vscode,eclipse,git,docker,postman,html,css,figma,nodejs,javascript,spring,maven,arch,postgresql,selenium,kubernetes,gradle,mysql,bash&perline=10)](https://skillicons.dev)
 
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png" alt="SonarQube" title="SonarQube"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
