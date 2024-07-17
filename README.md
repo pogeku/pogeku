@@ -65,8 +65,8 @@ I love programming and in spare time ear some musics and play indie games. 🎻�
 ## ⚡ Stats ⚡
 </div>
 
-<img alt="Samuel GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pogeku&show_icons=true&theme=transparent"/>
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pogeku&layout=compact&&langs_count=8&theme=transparent"/>
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=pogeku&show_icons=true&theme=transparent&token=YOUR_TOKEN)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pogeku&layout=compact&langs_count=8&theme=transparent&token=YOUR_TOKEN)
 
 <div align="center">
 
