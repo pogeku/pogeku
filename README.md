@@ -39,7 +39,7 @@ I love programming and in spare time ear some musics and play indie games. ðŸŽ»ð
 [![Resume](https://img.shields.io/badge/My%20Resumee-black?style=flat&color=%23442CEB&cacheSeconds=2)]()
 [![Portifolio](https://img.shields.io/badge/Portifolio-black?style=flat&color=%238D59E3&cacheSeconds=2)]()
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:samuelsantana778@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelpereira-dntszz/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firstpiece)
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Pogeku/)
 [![Roadmap](https://img.shields.io/badge/Roadmap-000000?style=flat&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/u/mrspeed)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22629899)
