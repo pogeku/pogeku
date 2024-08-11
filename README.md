@@ -1,4 +1,4 @@
-<img src="keepcalm.webp" />
+<img src="images.jpeg" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pogeku.writing&right_color=purple" />
 
 <br>
@@ -20,6 +20,7 @@ I love programming and in spare time ear some musics and play indie games. ðŸŽ»ð
 
 - Currently working on a [Spring Boot Github Idea](https://github.com/pogeku/Github_Controller)
 - Creating a [Portifolio](www.google.com)
+- Creating some games ideas using .json [Games](www.google.com)
 
 <div align="center">
 
