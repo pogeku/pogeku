@@ -18,8 +18,7 @@ I love programming and in spare time ear some musics and play indie games. 🎻�
 ## 🧰 Working on: 
 </div>
 
-- Currently working on a [Project](https://github.com/pogeku/Github_Controller)
-- Creating a [Portifolio](www.google.com)
+- Creating a [Portifolio]()
 
 <div align="center">
 
